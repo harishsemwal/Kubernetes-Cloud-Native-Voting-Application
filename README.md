@@ -1,7 +1,3 @@
-Here's a GitHub README for your Cloud-Native Web Voting Application with Kubernetes project:
-
----
-
 # Cloud-Native Web Voting Application with Kubernetes
 
 This cloud-native web application allows users to vote for their preferred programming language out of six choices: C#, Python, JavaScript, Go, Java, and NodeJS. The application is built using a mix of modern technologies and is designed to be accessible via the internet.
